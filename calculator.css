@@ -44,6 +44,7 @@
     grid-gap: 5px;
     margin: 10px auto;
     max-width: 80%;
+    transition: all 0.3s ease-in-out;
   }
   
   button {
